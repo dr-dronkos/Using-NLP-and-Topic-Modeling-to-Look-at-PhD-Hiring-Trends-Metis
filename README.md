@@ -33,4 +33,4 @@ The project was created using the following tools:
 
 ## Communication
 
-[Metis NLP Danielle Ronkos.pdf](https://github.com/dr-dronkos/Using-NLP-and-Topic-Modeling-to-Look-at-PhD-Hiring-Trends-Metis/files/8713173/Metis.NLP.Danielle.Ronkos.pdf)
+[Metis NLP Danielle Ronkos.pdf](https://github.com/dr-dronkos/Using-NLP-and-Topic-Modeling-to-Look-at-PhD-Hiring-Trends-Metis/files/8713173/Metis.NLP.Danielle.Ronkos.pdf)<img width="1163" alt="Scattertext" src="https://user-images.githubusercontent.com/95940978/168955727-3c767c64-8801-4988-99db-8b013b60dcc6.png">
